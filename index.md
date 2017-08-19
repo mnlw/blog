@@ -1,4 +1,4 @@
-[Publicaciones](publicaciones.html)
+[Publicaciones](p/invalidos.html)
 
 ## Welcome to GitHub Pages
 
